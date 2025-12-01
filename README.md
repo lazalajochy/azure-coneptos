@@ -11,6 +11,9 @@
   />
 </p>
 
+* # Cloud Computing
+Cloud computing is the delivery of computing services over the internet, such as servers, storage, databases, software, and networking.
+
 * # High availability
 High availability means that a system stays working and online all the time, even if something goes wrong.
 
