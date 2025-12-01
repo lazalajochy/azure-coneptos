@@ -11,20 +11,22 @@
   />
 </p>
 
-* # Cloud Computing
+* **Cloud Computing**
 Cloud computing is the delivery of computing services over the internet, such as servers, storage, databases, software, and networking.
 
-* # High availability
+* **High availability**
 High availability means that a system stays working and online all the time, even if something goes wrong.
 
-* # Scalability
+* **Scalability**
 Scalability means the ability of a system to grow and handle increased demand without losing performance.
 
-* # Elasticity
+* **Elasticity**
   Elasticity is the ability of a system to automatically add or remove resources based on current demand.
-* # Agility
+* **Agility**
   Agility is the ability to move quickly and adapt easily to changes or new requirements.
-* # Fault tolerance
+* **Fault tolerance**
   Fault tolerance is the ability of a system to continue working correctly even when one or more parts fail.
-* # Disaster recovery
+* **Disaster recovery**
   Disaster recovery is the process and plan used to restore systems and data after a major failure or disaster, so the business can continue operating.
+
+# Principle of economies of scale
