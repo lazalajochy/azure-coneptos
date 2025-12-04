@@ -29,4 +29,29 @@ Scalability means the ability of a system to grow and handle increased demand wi
 * **Disaster recovery**
   Disaster recovery is the process and plan used to restore systems and data after a major failure or disaster, so the business can continue operating.
 
-# Principle of economies of scale
+# Basic concepts
+
+* **VNet (Virtual Network)**
+
+A VNet is a private, isolated network inside the cloud.
+It works like your own network in Azure where you place resources (VMs, databases, apps) and control how they communicate.
+
+* **Subnet**
+
+A Subnet is a smaller section inside a VNet.
+You use subnets to organize and separate resources — for example, one subnet for public-facing services and another for internal services.
+
+* **Route Table**
+
+A Route Table contains rules that decide how network traffic should move inside the VNet.
+It tells Azure where to send packets — for example, to the internet, a firewall, or another subnet.
+
+* **Internet**
+
+The Internet is the global network that connects devices and services worldwide.
+From a cloud perspective, “internet” usually means public access from outside Azure into your service or from your service out to the world.
+
+* **Network Security Group (NSG)**
+
+An NSG is a firewall at the network level.
+It controls which traffic is allowed or denied to subnets or network interfaces based on rules (port, protocol, source, destination).
