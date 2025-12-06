@@ -60,3 +60,7 @@ It controls which traffic is allowed or denied to subnets or network interfaces 
 * **Private DNS Zone**
   
 In Azure is a private, internal DNS service that lets resources inside your VNet resolve names without going through the public internet.
+
+* **DNS (Domain Name System)**
+
+Is essentially the internet’s directory service. Its purpose is to translate human-friendly names into machine-friendly IP addresses.
