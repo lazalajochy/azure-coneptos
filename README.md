@@ -55,3 +55,8 @@ From a cloud perspective, “internet” usually means public access from outsid
 
 An NSG is a firewall at the network level.
 It controls which traffic is allowed or denied to subnets or network interfaces based on rules (port, protocol, source, destination).
+
+
+* **Private DNS Zone**
+  
+In Azure is a private, internal DNS service that lets resources inside your VNet resolve names without going through the public internet.
