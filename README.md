@@ -64,3 +64,7 @@ In Azure is a private, internal DNS service that lets resources inside your VNet
 * **DNS (Domain Name System)**
 
 Is essentially the internet’s directory service. Its purpose is to translate human-friendly names into machine-friendly IP addresses.
+
+* **Application Secury Group**
+
+An Application Security Group (ASG) in Azure is a way to group virtual machine network interfaces so you can apply network security rules to them as a single logical unit. Think of it as a tag for your servers that makes NSG rules easier to manage.
